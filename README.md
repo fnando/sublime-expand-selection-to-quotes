@@ -6,7 +6,8 @@ Expands selections to the closest containing pairs of single or double quotes.
 
 ### Setup Package Control Repository
 
-Follow instructions from https://sublime.fnando.com
+1. Follow the instructions from https://sublime.fnando.com.
+2. Open the command pallete, run “Package Control: Install Package“, then search for “Expand Selection to Quotes“.
 
 ### Git Clone
 
